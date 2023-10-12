@@ -22,11 +22,11 @@ function ResearchTalks() {
               <p className="text-sm mt-1  text-center">RIKEN iTHEMS (Oct 3, 2023)</p>
             </div>
 
-            <div className="mt-5">
+            {/* <div className="mt-5">
               <img src={ResearchImg2} width='300'/>
               <p className="text-sm mt-2 text-center">The commencement ceremony,</p>
               <p className="text-sm mt-1  text-center">University of Tokyo (Mar 23, 2023)</p>
-            </div>
+            </div> */}
 
             <div className="mt-5">
               <img src={ResearchImg1} width='300'/>

@@ -4,6 +4,7 @@ import teaching from '../../../assets/teaching.png'
 import math from '../../../assets/math.png'
 import email from '../../../assets/email.png'
 import location from '../../../assets/location.png'
+import cv from '../../../assets/cv.png'
 
 function DetailProfile({ onDataChange }) {
     const clickEducation = () => {
@@ -46,9 +47,9 @@ function DetailProfile({ onDataChange }) {
             <hr/>
             <div className='text-base mt-3'>
               <p className='my-1 ml-2'>I am interested in algebraic phenomena arising in topology</p>
-              <p className='my-1 ml-2'>and physics. Besides mathematics, I love music, movie and</p>
-              <p className='my-1 ml-2'>autumn. Especially, so far my research interest has lied in Hopf</p>
-              <p className='my-1 ml-2'>algebras and ordinary categories observed in such areas.</p>
+              <p className='my-1 ml-2'>and physics. Especially, so far my research interest has lied in</p>
+              <p className='my-1 ml-2'>Hopf algebras and ordinary categories observed in such areas.</p>
+              <p className='my-1 ml-2'>Besides mathematics, I love music, movie and autumn.</p>
             </div>
             
             <div>
@@ -63,6 +64,10 @@ function DetailProfile({ onDataChange }) {
                 </div>
                 <div className='h-[30px]'>
                   <button className='inline-flex text-sky-600' onClick={clickAssistantships}><img src={teaching}/><span className='ml-2'>Assistantships</span></button>
+                </div>
+                <div className='h-[30px]'>
+                  {/* <button className='inline-flex text-sky-600' onClick={clickAssistantships} ta><img src={cv}/><span className='ml-2'>CV</span></button> */}
+                  <a href='https://drive.google.com/file/d/1V7Sotnlolx5qyvegbWclYWjp7rZDbZr6/view?usp=sharing' target="_blank" className='inline-flex text-sky-600'><img src={cv} className="mr-2"/>CV</a>
                 </div>
               </div>
             </div>

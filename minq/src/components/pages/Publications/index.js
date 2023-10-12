@@ -12,13 +12,13 @@ function Publications() {
           </div>
 
           <div className='mt-10'>
-            <p className='ml-24 text-2xl'>Preprints</p>
-            <hr className='mt-3 ml-20' width="1100px"/>
-            <PrePrints/>
-            
             <p className='ml-24 text-2xl mt-10'>Published</p>
             <hr className='mt-3 ml-20' width="1100px"/>
             <Published/>
+            
+            <p className='ml-24 text-2xl mt-10'>Preprints</p>
+            <hr className='mt-3 ml-20' width="1100px"/>
+            <PrePrints/>
           </div>
         </div>
       </>

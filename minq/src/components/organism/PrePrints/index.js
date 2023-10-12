@@ -5,7 +5,7 @@ function PrePrints() {
       <>
         <div className="ml-10 mt-5">
           <div className="flex">
-            <div className="w-1/6 text-center">Current</div>
+            <div className="w-1/6 text-center"></div>
 
             <div className="w-full">
                 <div className="flex">
