@@ -6,7 +6,7 @@ import ResearchTalks from './components/pages/ResearchTalks';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/Publications" element={<Publications />} />
