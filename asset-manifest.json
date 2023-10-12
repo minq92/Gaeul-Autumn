@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/Gaeul-Autumn/static/css/main.a65684b2.css",
-    "main.js": "/Gaeul-Autumn/static/js/main.1050bc56.js",
+    "main.css": "/Gaeul-Autumn/static/css/main.b6bb9b13.css",
+    "main.js": "/Gaeul-Autumn/static/js/main.f2bc3f8d.js",
     "static/js/787.a3f00bd0.chunk.js": "/Gaeul-Autumn/static/js/787.a3f00bd0.chunk.js",
     "static/media/researchImg1.jpeg": "/Gaeul-Autumn/static/media/researchImg1.a52270f599472c5031ff.jpeg",
+    "static/media/cupisbagel.gif": "/Gaeul-Autumn/static/media/cupisbagel.61b4e1b1c3aad0b56d6d.gif",
+    "static/media/1.jpeg": "/Gaeul-Autumn/static/media/1.27494ed4e7a1d7e3757b.jpeg",
+    "static/media/2.jpeg": "/Gaeul-Autumn/static/media/2.f00789644d36d4cc2edb.jpeg",
     "static/media/researchImg2.jpeg": "/Gaeul-Autumn/static/media/researchImg2.f00789644d36d4cc2edb.jpeg",
     "static/media/NotoSans.ttf": "/Gaeul-Autumn/static/media/NotoSans.c6776e8228bee1ff1106.ttf",
     "static/media/OpenSans.ttf": "/Gaeul-Autumn/static/media/OpenSans.071a1becc7f00e33cc5b.ttf",
@@ -13,12 +16,12 @@
     "static/media/main.png": "/Gaeul-Autumn/static/media/main.0f517069b7409f103a94.png",
     "static/media/PLAYER.ttf": "/Gaeul-Autumn/static/media/PLAYER.e900215cb30516a64196.ttf",
     "index.html": "/Gaeul-Autumn/index.html",
-    "main.a65684b2.css.map": "/Gaeul-Autumn/static/css/main.a65684b2.css.map",
-    "main.1050bc56.js.map": "/Gaeul-Autumn/static/js/main.1050bc56.js.map",
+    "main.b6bb9b13.css.map": "/Gaeul-Autumn/static/css/main.b6bb9b13.css.map",
+    "main.f2bc3f8d.js.map": "/Gaeul-Autumn/static/js/main.f2bc3f8d.js.map",
     "787.a3f00bd0.chunk.js.map": "/Gaeul-Autumn/static/js/787.a3f00bd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a65684b2.css",
-    "static/js/main.1050bc56.js"
+    "static/css/main.b6bb9b13.css",
+    "static/js/main.f2bc3f8d.js"
   ]
 }
