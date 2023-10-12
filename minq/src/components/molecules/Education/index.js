@@ -4,7 +4,9 @@ function Education() {
     return (
       <>
         <div className="font-noto">
-            <div className="flex">
+            <hr className="border-gray-800"/>
+
+            <div className="flex mt-5">
                 <img src={education} className="w-8 h-8"></img>
                 <p className="text-2xl mb-2 ml-3">Education</p>
             </div>

@@ -4,7 +4,7 @@ function Scholarships() {
     return (
       <>
         <div className="font-noto">
-            <div className="flex">
+            <div className="flex mt-2">
                 <img src={scholarship} className="w-8 h-8"></img>
                 <p className="text-2xl mb-2 ml-3">Scholarships</p>
             </div>

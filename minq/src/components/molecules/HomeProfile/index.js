@@ -25,7 +25,7 @@ function DetailProfile({ onDataChange }) {
     return (
       <>
         <div className='font-noto'>
-            <p className='text-3xl mb-3'>Minkyu Kim Ph.D.</p>
+            <p className='text-3xl mb-3'>Minkyu Kim</p>
             
             <hr/>
             <div className='text-base my-3'>
@@ -42,6 +42,7 @@ function DetailProfile({ onDataChange }) {
               <div className="flex">
                 <img src={email} className="w-7 h-7 my-auto"></img>
                 <p className='my-1 ml-2'>kimminq(at)kias(dot)re(dot)kr</p>
+                <a href='https://drive.google.com/file/d/1V7Sotnlolx5qyvegbWclYWjp7rZDbZr6/view?usp=sharing' target="_blank" className='inline-flex text-sky-600 my-auto'><img src={cv} className="w-6 h-6 my-auto ml-5 mr-2"/>CV</a>
               </div>
             </div>
             <hr/>
@@ -52,7 +53,7 @@ function DetailProfile({ onDataChange }) {
               <p className='my-1 ml-2'>Besides mathematics, I love music, movie and autumn.</p>
             </div>
             
-            <div>
+            {/* <div>
               <p className='text-xl mt-5'>More Information</p>
               
               <div className='flex justify-between my-3 text-base'>
@@ -66,11 +67,10 @@ function DetailProfile({ onDataChange }) {
                   <button className='inline-flex text-sky-600' onClick={clickAssistantships}><img src={teaching}/><span className='ml-2'>Assistantships</span></button>
                 </div>
                 <div className='h-[30px]'>
-                  {/* <button className='inline-flex text-sky-600' onClick={clickAssistantships} ta><img src={cv}/><span className='ml-2'>CV</span></button> */}
                   <a href='https://drive.google.com/file/d/1V7Sotnlolx5qyvegbWclYWjp7rZDbZr6/view?usp=sharing' target="_blank" className='inline-flex text-sky-600'><img src={cv} className="mr-2"/>CV</a>
                 </div>
               </div>
-            </div>
+            </div> */}
         </div>
       </>
     );
