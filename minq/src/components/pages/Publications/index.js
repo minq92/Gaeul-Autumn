@@ -6,7 +6,7 @@ function Publications() {
     
     return (
       <>
-        <div className='w-[1280px] mx-auto'>
+        <div className='w-[1280px] mx-auto mb-10'>
           <div className="z-30 sticky top-0">
             <NavBarPub />
           </div>

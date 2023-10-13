@@ -18,17 +18,18 @@ function Education() {
                 <div className='ml-10'>
                     <p className='mt-1'>Ph.D., Mathematical science (Advisor : Mikio Furuta)</p>
                     <p className='mt-1'>Graduate School of Mathematical Sciences, The University of Tokyo</p>
-                    <p className='mt-1'>leave of absence due to military service in Republic of Korea (Apr 2020- Dec 2021)</p>
+                    <p className='mt-1'>“Finite path integral model and toric code based on homological algebra"</p>
+                    <p className='mt-1'>Dean’s Prize 2023</p>
                 </div>
             </div>
 
             <div className='my-2'>
                 <p className='font-semibold ml-4'>Apr 2016 - Mar 2018</p>
                 <div className='ml-10'>
-                    <p className='mt-1'>Master of Science, Mathematical science (Advisor : Mikio Furuta)</p>
+                    <p className='mt-1'>Master of Science, Mathematical science</p>
                     <p className='mt-1'>Graduate School of Mathematical Sciences, The University of Tokyo</p>
                     <p className='mt-1'>“A construction of TQFT using K-theory.”</p>
-                    <p className='mt-1'>Dean’s Prize 2018 : awarded to students with superior grades who are expected to earn Master’s degree or Ph.D</p>
+                    <p className='mt-1'>Dean’s Prize 2018</p>
                 </div>
             </div>
 

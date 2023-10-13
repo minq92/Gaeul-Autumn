@@ -12,7 +12,7 @@ import picture1 from "../../../../assets/ETC/1.jpeg"
 export default function ETC1() {
   return (
     // <Card sx={{ maxWidth: 345 }}>
-    <Card sx={{ maxWidth: 400 }}>
+    <Card sx={{ maxWidth: 320 }}>
       <CardMedia
         sx={{ height: 250 }}
         image={picture1}

@@ -51,11 +51,11 @@ function HomeProfile() {
             {/* )} */}
 
             {/* {number === 3 && ( */}
-              <div className='flex justify-center mt-5'>
+              {/* <div className='flex justify-center mt-5'>
                 <div className='w-[920px]'>
                   <Assistantships onDataChange={handleDataChange}/>
                 </div>
-              </div>
+              </div> */}
             {/* )} */}
 
           </div>
