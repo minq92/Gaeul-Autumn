@@ -16,7 +16,7 @@ function Research2023() {
                 </div>
 
                 <div className="flex mt-2">
-                    <div className="w-16">Aug</div>
+                    <div className="w-16">Oct</div>
                     <div className="w-full">
                         <p>“Finite path integral model and toric code based on homological algebra.”</p>
                         <p>Tokyo-Seoul Conference in Mathematics, 2023 Topology and Geometric Group Theory, University of Tokyo</p>
@@ -24,7 +24,7 @@ function Research2023() {
                 </div>
 
                 <div className="flex mt-2">
-                    <div className="w-16">Aug</div>
+                    <div className="w-16">Oct</div>
                     <div className="w-full">
                         <p>“Interactions between Topology and Representation theory by Toric code.”</p>
                         <p>iTHEMS Math Seminar, RIKEN</p>
