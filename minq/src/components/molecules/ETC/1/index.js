@@ -6,7 +6,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 
-import picture1 from "../../../../assets/ETC/1.jpeg"
+import picture1 from "../../../../assets/ETC/1.webp"
 
 
 export default function ETC1() {

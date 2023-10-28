@@ -5,9 +5,9 @@ import Research2021 from "../../molecules/ResearchTalks/2021";
 import Research2022 from "../../molecules/ResearchTalks/2022";
 import Research2023 from "../../molecules/ResearchTalks/2023";
 
-import ResearchImg3 from "../../../assets/researchImg3.jpeg"
-import ResearchImg2 from "../../../assets/researchImg2.jpeg"
-import ResearchImg1 from "../../../assets/researchImg1.jpeg"
+import ResearchImg3 from "../../../assets/researchImg3.webp"
+import ResearchImg2 from "../../../assets/researchImg2.webp"
+import ResearchImg1 from "../../../assets/researchImg1.webp"
 
 function ResearchTalks() {
 

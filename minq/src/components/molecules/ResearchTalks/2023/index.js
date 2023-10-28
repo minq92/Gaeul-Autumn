@@ -39,7 +39,7 @@ function Research2023() {
                 </div>
 
                 <div className="flex mt-2">
-                    <div className="w-16"></div>
+                    <div className="w-16">Aug</div>
                     <div className="w-full">
                         <p>“Finite path integral model and toric code based on homological algebra.”</p>
                         <p>Silver workshop VI, OIST</p>
