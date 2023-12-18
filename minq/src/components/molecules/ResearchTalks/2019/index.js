@@ -10,7 +10,7 @@ function Research2019() {
                 <div className="flex">
                     <div className="w-16">Dec</div>
                     <div className="w-full">
-                        <p>“Commutative and cocommutative Kitaev lattice model and homology theory.”</p>
+                        <p><a href="https://sites.google.com/view/jpoissongeometry19/" target='_blank'>“Commutative and cocommutative Kitaev lattice model and homology theory.”</a></p>
                         <p>Poisson geometry and related topics, Ritsumeikan University</p>
                     </div>
                 </div>
@@ -18,7 +18,7 @@ function Research2019() {
                 <div className="flex mt-2">
                     <div className="w-16">Nov</div>
                     <div className="w-full">
-                        <p>“A characterization of convective precipitation by persistent homology.”</p>
+                        <p><a href="" target='_blank'>“A characterization of convective precipitation by persistent homology.”</a></p>
                         <p>FMSP Research Seminar on Social and Mathematical practice, University of Tokyo</p>
                     </div>
                 </div>
@@ -26,7 +26,7 @@ function Research2019() {
                 <div className="flex mt-2">
                     <div className="w-16">Feb</div>
                     <div className="w-full">
-                        <p>“A generalization of Dijkgraaf-Witten theory.”</p>
+                        <p><a href="https://kansai-gauge.squares.net/kgs15-19.html" target='_blank'>“A generalization of Dijkgraaf-Witten theory.”</a></p>
                         <p>Kansai Gauge theory Seminar, Kyoto University</p>
                     </div>
                 </div>

@@ -10,7 +10,7 @@ function Research2018() {
                 <div className="flex">
                     <div className="w-16">Sep</div>
                     <div className="w-full">
-                        <p>“A K-theoretical Dijkgraaf-Witten theory.”</p>
+                        <p><a href="https://gauge-theory.wixsite.com/eastasian" target='_blank'>“A K-theoretical Dijkgraaf-Witten theory.”</a></p>
                         <p>East Asian Conference on Gauge theory and Related topics, Kyoto University</p>
                     </div>
                 </div>
@@ -18,7 +18,7 @@ function Research2018() {
                 <div className="flex mt-2">
                     <div className="w-16">Mar</div>
                     <div className="w-full">
-                        <p>“A construction of TQFT using K-theory.”</p>
+                        <p><a href="https://www.math-materials.jp/activity/20180301_WS.html" target='_blank'>“A construction of TQFT using K-theory.”</a></p>
                         <p>Mini-Workshop on Topological Phases and K-theory, AIMR</p>
                     </div>
                 </div>

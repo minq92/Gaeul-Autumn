@@ -10,7 +10,7 @@ function Research2021() {
                 <div className="flex">
                     <div className="w-16">Jul</div>
                     <div className="w-full">
-                        <p>“Toric code induced by bicommutative Hopf algebras.”</p>
+                        <p><a href="https://www.ms.u-tokyo.ac.jp/~yasuyuki/crest-seminar.htm" target='_blank'>“Toric code induced by bicommutative Hopf algebras.”</a></p>
                         <p>CREST Research Seminar on Theoretical studies of topological phases of matter, online</p>
                     </div>
                 </div>

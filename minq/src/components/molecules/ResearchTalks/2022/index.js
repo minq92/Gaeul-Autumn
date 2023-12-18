@@ -10,7 +10,7 @@ function Research2022() {
                 <div className="flex">
                     <div className="w-16">Nov</div>
                     <div className="w-full">
-                        <p>“An obstruction problem associated with finite path-integral.”</p>
+                        <p><a href="https://park.itc.u-tokyo.ac.jp/MSF/topology/TuesdaySeminar/22_2_e.html" target='_blank'>“An obstruction problem associated with finite path-integral.”</a></p>
                         <p>Tuesday Seminar on Topology, the university of Tokyo</p>
                     </div>
                 </div>

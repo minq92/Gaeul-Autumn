@@ -42,7 +42,7 @@ function DetailProfile({ onDataChange }) {
               <div className="flex">
                 <img src={email} className="w-7 h-7 my-auto"></img>
                 <p className='my-1 ml-2'>kimminq(at)kias(dot)re(dot)kr</p>
-                <a href='https://drive.google.com/file/d/1V7Sotnlolx5qyvegbWclYWjp7rZDbZr6/view?usp=sharing' target="_blank" className='inline-flex text-sky-600 my-auto'><img src={cv} className="w-6 h-6 my-auto ml-5 mr-2"/>CV</a>
+                <a href='https://drive.google.com/file/d/1U0D4jGGjvT74_XKh1U9nbq_K98VzyVt_/view?usp=sharing' target="_blank" className='inline-flex text-sky-600 my-auto'><img src={cv} className="w-6 h-6 my-auto ml-5 mr-2"/>CV</a>
               </div>
             </div>
             <hr/>

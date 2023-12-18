@@ -4,6 +4,7 @@ import Research2020 from "../../molecules/ResearchTalks/2020";
 import Research2021 from "../../molecules/ResearchTalks/2021";
 import Research2022 from "../../molecules/ResearchTalks/2022";
 import Research2023 from "../../molecules/ResearchTalks/2023";
+import Research2024 from "../../molecules/ResearchTalks/2024";
 
 import ResearchImg3 from "../../../assets/researchImg3.webp"
 import ResearchImg2 from "../../../assets/researchImg2.webp"
@@ -36,6 +37,7 @@ function ResearchTalks() {
           </div>
 
           <div className="w-2/3">
+            <Research2024/>
             <Research2023/>
             <Research2022/>
             <Research2021/>
