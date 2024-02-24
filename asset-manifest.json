@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gaeul-Autumn/static/css/main.b6bb9b13.css",
-    "main.js": "/Gaeul-Autumn/static/js/main.afd870e5.js",
+    "main.js": "/Gaeul-Autumn/static/js/main.fbcb1048.js",
     "static/js/787.a3f00bd0.chunk.js": "/Gaeul-Autumn/static/js/787.a3f00bd0.chunk.js",
     "static/media/researchImg1.webp": "/Gaeul-Autumn/static/media/researchImg1.e1ef7538041f87c9e87f.webp",
     "static/media/cupisbagel.gif": "/Gaeul-Autumn/static/media/cupisbagel.61b4e1b1c3aad0b56d6d.gif",
@@ -17,11 +17,11 @@
     "static/media/PLAYER.ttf": "/Gaeul-Autumn/static/media/PLAYER.e900215cb30516a64196.ttf",
     "index.html": "/Gaeul-Autumn/index.html",
     "main.b6bb9b13.css.map": "/Gaeul-Autumn/static/css/main.b6bb9b13.css.map",
-    "main.afd870e5.js.map": "/Gaeul-Autumn/static/js/main.afd870e5.js.map",
+    "main.fbcb1048.js.map": "/Gaeul-Autumn/static/js/main.fbcb1048.js.map",
     "787.a3f00bd0.chunk.js.map": "/Gaeul-Autumn/static/js/787.a3f00bd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6bb9b13.css",
-    "static/js/main.afd870e5.js"
+    "static/js/main.fbcb1048.js"
   ]
 }
