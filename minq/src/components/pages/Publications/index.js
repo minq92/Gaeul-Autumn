@@ -1,6 +1,7 @@
 import NavBarPub from '../../organism/NavBarPub';
 import Published from '../../organism/Published';
 import PrePrints from '../../organism/PrePrints';
+import Articles from '../../organism/Articles';
 
 function Publications() {
     
@@ -19,6 +20,10 @@ function Publications() {
             <p className='ml-24 text-2xl mt-10'>Preprints</p>
             <hr className='mt-3 ml-20' width="1100px"/>
             <PrePrints/>
+
+            <p className='ml-24 text-2xl mt-10'>Articles</p>
+            <hr className='mt-3 ml-20' width="1100px"/>
+            <Articles/>
           </div>
         </div>
       </>
