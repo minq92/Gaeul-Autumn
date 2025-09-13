@@ -6,6 +6,8 @@ import Education from '../../molecules/Education';
 import Scholarships from '../../molecules/Scholarships';
 import Assistantships from '../../molecules/Assistantships';
 import MoreInform from '../../molecules/MoreInform';
+import Career from '../../molecules/Career';
+
 
 function HomeProfile() {
     const [number, setNumber] = useState(0);
@@ -33,6 +35,14 @@ function HomeProfile() {
             {/* <div className='w-[920px] mx-auto'>
               <MoreInform onDataChange={handleDataChange}/>
             </div> */}
+
+            {/* {number === 1 && ( */}
+            <div className='flex justify-center mt-8'>
+                <div className='w-[920px]'>
+                  <Career onDataChange={handleDataChange}/>
+                </div>
+              </div>
+            {/* )} */}
 
             {/* {number === 1 && ( */}
               <div className='flex justify-center mt-8'>

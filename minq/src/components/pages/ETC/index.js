@@ -1,6 +1,8 @@
 import NavBarETC from "../../organism/NavBarETC";
 import ETC1 from "../../molecules/ETC/1";
 import ETC2 from "../../molecules/ETC/2";
+import ETC3 from "../../molecules/ETC/3";
+import ETC4 from "../../molecules/ETC/4";
 
 function ETC() {
     
@@ -12,9 +14,13 @@ function ETC() {
           </div>
 
           <div className='mt-10 flex justify-around'>
+            <ETC4/>
+            <ETC3/>
+          </div>
+
+          <div className='mt-10 flex justify-around'>
             <ETC2/>
             <ETC1/>
-            {/* <ETC2/> */}
           </div>
         </div>
       </>

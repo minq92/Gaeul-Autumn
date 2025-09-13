@@ -7,11 +7,43 @@ function Research2024() {
             <div className="w-16">2024</div>
 
             <div className="w-full">
-                <div className="flex">
+            <div className="flex">
+                    <div className="w-16">Dec</div>
+                    <div className="w-full">
+                        <p><a href="http://events.kias.re.kr/h/MathAlumni24/" target='_blank'>“On a subquotient construction for categories.”</a></p>
+                        <p>The 8th KIAS Alumni Workshop in Mathematics, KIAS</p>
+                    </div>
+                </div>
+
+                <div className="flex mt-2">
+                    <div className="w-16">Nov</div>
+                    <div className="w-full">
+                        <p><a href="https://sites.google.com/view/dgt5" target='_blank'>“A categorified eigenring action on Jacobi diagrams in handlebodies.”</a></p>
+                        <p>Dynamical Group Theory V, Gimhae Lotte Hotels & Resorts</p>
+                    </div>
+                </div>
+
+                <div className="flex mt-2">
+                    <div className="w-16">Oct</div>
+                    <div className="w-full">
+                        <p><a href="https://www.kms.or.kr/conference/2024_fall/" target='_blank'>“A categorified eigen-ring action on Jacobi diagrams in handlebodies.”</a></p>
+                        <p>2024 KMS Autumn meeting, Special Session, Sungkyunkwan university</p>
+                    </div>
+                </div>
+
+                <div className="flex mt-2">
                     <div className="w-16">Jul</div>
                     <div className="w-full">
                         <p><a href="https://sites.google.com/view/2024wat" target='_blank'>“Eigen-ring construction for linear categories.”</a></p>
                         <p>Workshop on Algebra and Topology, Jeonbuk National University</p>
+                    </div>
+                </div>
+
+                <div className="flex mt-2">
+                    <div className="w-16">Jun</div>
+                    <div className="w-full">
+                        <p><a href="https://www.usc.gal/regaca/ct2024/index.html" target='_blank'>“On eigen-ring construction for monads.”</a></p>
+                        <p>International Category Theory Conference CT2024, Poster session, Santiago de Compostela</p>
                     </div>
                 </div>
 

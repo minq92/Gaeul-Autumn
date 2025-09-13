@@ -10,6 +10,12 @@ function PrePrints() {
             <div className="w-full">
               <div className="flex">
                     <div className="w-full">
+                        <p><a href="https://arxiv.org/abs/2410.18877" target='_blank'>M. Kim, “An eigenring construction for free groups and free modules.”</a></p>
+                        <p>arXiv preprint arXiv:2410.18877 (2024)</p>
+                    </div>
+                </div>
+              <div className="flex mt-2">
+                    <div className="w-full">
                         <p><a href="https://arxiv.org/html/2401.09151v1" target='_blank'>M. Kim and C. Vespa, “On analytic exponential functors on free groups.”</a></p>
                         <p>arXiv preprint arXiv:2401.09151 (2024)</p>
                     </div>
@@ -28,7 +34,7 @@ function PrePrints() {
                     </div>
                 </div>
                 
-                <div className="flex mt-2">
+                <div className="flex mt-2 hidden">
                     <div className="w-full">
                         <p>M. Kim, “A categorification of the eigen-ring construction.”</p>
                         <p>in preparation.</p>

@@ -4,23 +4,23 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 
-import picture2 from "../../../../assets/ETC/2.webp"
+import picture3 from "../../../../assets/ETC/3.webp"
 
-export default function ETC2() {
+export default function ETC3() {
   return (
     <Card 
-    sx={{ 
-      width: 500,          // 카드 너비 고정
-      height: 320,         // 카드 전체 높이 고정
-      display: 'flex',     
-      flexDirection: 'column' 
-    }}
+      sx={{ 
+        width: 500,          // 카드 너비 고정
+        height: 320,         // 카드 전체 높이 고정
+        display: 'flex',     
+        flexDirection: 'column' 
+      }}
     >
       {/* 이미지 영역 */}
       <CardMedia
         component="img"
-        image={picture2}
-        alt="ETC2"
+        image={picture3}
+        alt="ETC3"
         sx={{ 
           height: 250,       
           objectFit: 'cover'  
@@ -36,7 +36,7 @@ export default function ETC2() {
         }}
       >
         <Typography variant="body1" color="text.secondary">
-          The commencement ceremony of the University of Tokyo (Mar 23, 2023)
+          The 19th EACGT, RIMS (2024)
         </Typography>
       </CardContent>
     </Card>

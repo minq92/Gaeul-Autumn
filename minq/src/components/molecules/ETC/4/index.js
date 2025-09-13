@@ -4,9 +4,9 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 
-import picture2 from "../../../../assets/ETC/2.webp"
+import picture4 from "../../../../assets/ETC/4.webp"
 
-export default function ETC2() {
+export default function ETC4() {
   return (
     <Card 
     sx={{ 
@@ -19,24 +19,28 @@ export default function ETC2() {
       {/* 이미지 영역 */}
       <CardMedia
         component="img"
-        image={picture2}
-        alt="ETC2"
+        image={picture4}
+        alt="ETC4"
         sx={{ 
           height: 250,       
           objectFit: 'cover'  
         }}
       />
 
-      {/* 텍스트 영역 */}
-      <CardContent 
-        sx={{ 
-          height: 150,       
-          overflow: 'auto',  
-          padding: 2,
-        }}
-      >
-        <Typography variant="body1" color="text.secondary">
-          The commencement ceremony of the University of Tokyo (Mar 23, 2023)
+      {/* 텍스트 영역 3줄 제한 */}
+      <CardContent sx={{ padding: 2 }}>
+        <Typography
+          variant="body1"
+          color="text.secondary"
+          sx={{
+            display: '-webkit-box',
+            WebkitLineClamp: 3,      // 최대 3줄
+            WebkitBoxOrient: 'vertical',
+            overflow: 'hidden',
+            textOverflow: 'ellipsis',
+          }}
+        >
+          Algebraic Approaches to mapping class groups of surfaces, the University of Tokyo (2025)
         </Typography>
       </CardContent>
     </Card>
