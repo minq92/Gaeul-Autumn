@@ -14,7 +14,7 @@ function Career() {
             <hr/>
 
             <div className='my-2 flex'>
-                <p className='font-semibold ml-4 w-40'>May 2025 - Present</p>
+                <p className='font-semibold ml-4 w-[160px]'>May 2025 - Present</p>
                 <p className='ml-4'>KIAS Junior Fellow</p>
                 {/* <div className='ml-10'>
                     <p className='mt-1'>KIAS Junior Fellow</p>
@@ -22,7 +22,7 @@ function Career() {
             </div>
 
             <div className='my-2 flex'>
-                <p className='font-semibold ml-4 w-40'>Apr 2016 - Mar 2018</p>
+                <p className='font-semibold ml-4 w-[160px]'>Apr 2016 - Mar 2018</p>
                 <p className='ml-4'>Master of Science, Mathematical science</p>
             </div>
         </div>
