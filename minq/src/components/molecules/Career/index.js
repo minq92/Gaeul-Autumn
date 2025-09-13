@@ -22,8 +22,8 @@ function Career() {
             </div>
 
             <div className='my-2 flex'>
-                <p className='font-semibold ml-4 w-[180px]'>Apr 2016 - Mar 2018</p>
-                <p className='ml-4'>Master of Science, Mathematical science</p>
+                <p className='font-semibold ml-4 w-[180px]'>May 2023 - April 2025</p>
+                <p className='ml-4'>KIAS Research Fellow</p>
             </div>
         </div>
       </>
