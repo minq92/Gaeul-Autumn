@@ -10,7 +10,7 @@ export default function ETC2() {
   return (
     <Card 
     sx={{ 
-      width: 500,          // 카드 너비 고정
+      width: 450,          // 카드 너비 고정
       height: 320,         // 카드 전체 높이 고정
       display: 'flex',     
       flexDirection: 'column' 

@@ -8,7 +8,14 @@ function PrePrints() {
             <div className="w-1/6 text-center"></div>
 
             <div className="w-full">
-              <div className="flex">
+                <div className="flex">
+                    <div className="w-full">
+                        <p><a href="https://arxiv.org/abs/2509.02105" target='_blank'>M. Kim and C. Vespa, “On integral extensions between the abelianization functor and its symmetric powers.”</a></p>
+                        <p>arXiv preprint arXiv:2509.02105 (2025)</p>
+                    </div>
+                </div>
+
+              <div className="flex mt-2">
                     <div className="w-full">
                         <p><a href="https://arxiv.org/abs/2410.18877" target='_blank'>M. Kim, “An eigenring construction for free groups and free modules.”</a></p>
                         <p>arXiv preprint arXiv:2410.18877 (2024)</p>
